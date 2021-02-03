@@ -1,0 +1,2 @@
+# Var
+Aprendendo linguagem Scala
